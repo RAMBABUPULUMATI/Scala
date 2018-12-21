@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\MyGithub\Online_Repo\Scala\Main\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.3:compile for Scala 2.12.7[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.7. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.12.7.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_e5d5be69[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\resources.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\rt.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jsse.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jce.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\charsets.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jfr.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\classes;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_42ab4c5d\jars\org.scala-sbt\compiler-interface\compiler-interface-1.2.3.jar;C:\Users\zh722e\AppData\Local\Temp\sbt_42ab4c5d\jars\org.scala-sbt\util-interface\util-interface-1.2.2.jar;C:\Users\zh722e\AppData\Local\Temp\sbt_42ab4c5d\srcs\org.scala-sbt\compiler-bridge_2.12\compiler-bridge_2.12-1.2.3-sources.jar;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\scala-compiler.jar;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\jline.jar;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\scala-reflect.jar;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\scala-xml_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\zh722e\AppData\Local\Temp\sbt_6d60d076\xsbt\ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 11.051s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.3:compile for Scala 2.12.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 25dd8acb for Scala compiler version 2.12.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\resources.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\rt.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jsse.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jce.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\charsets.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\lib\jfr.jar;C:\MyWork\eCFD_Project\Tools\jdk1.8.0_112\jre\classes;C:\Users\zh722e\.sbt\boot\scala-2.12.7\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\MyGithub\Online_Repo\Scala\Main\target\scala-2.12\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 13.957662553 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

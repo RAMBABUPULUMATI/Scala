@@ -1,0 +1,10 @@
+run
+compile
+run
+~run
+settings
+help settings
+settings -V
+tasks
+console
+doc
